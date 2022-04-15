@@ -1,5 +1,6 @@
 
-- 🌱 I’m currently learning Web Development at OSU Coding Boot Camp
+- 🌱 Through the Ohio State University College of Engineering, I successfully completed the OSU Coding Boot Camp in April 2022.  In this market-driven curriculum, I focused on many skills and acquired the knowlege to begin my new career path.
+-  Which now leads me to my next adventure: seeking and landing opportunities and assignments as a Full-Stack Web Developer!
 
 - 📫 How to reach me ... finatammy@gmail.com
 
