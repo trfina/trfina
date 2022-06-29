@@ -1,6 +1,6 @@
+I am an IT professional that is currently building and fine-tuning my skills for full-stack web development or Dev/Ops.   I successfully completed the Ohio State University College of Engineering Coding Boot Camp in April 2022.   My previous IT work experience includes network administration, developing and teaching a computer science curriculum for a secondary school, and mainframe programming. 
 
-- 🌱 Through the Ohio State University College of Engineering, I successfully completed the OSU Coding Boot Camp in April 2022.  In this market-driven curriculum, I focused on many skills and acquired the knowlege to begin my new career path.
--  Which now leads me to my next adventure: seeking and landing opportunities and assignments as a Full-Stack Web Developer!
+-  Which now leads me to my next adventure: seeking and landing opportunities and assignments as a Full-Stack Web Developer or Dev/Ops!
 
 - 📫 How to reach me ... finatammy@gmail.com
 
