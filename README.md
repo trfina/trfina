@@ -1,4 +1,4 @@
-I am an IT professional that is retooling my skills for work in Dev/Ops or Site Reliability.   I successfully completed the Ohio State University College of Engineering Coding Boot Camp in April 2022 which helped me realize my desire to work with backend technologies related to IT operations.   My previous IT work experience includes network administration, developing and teaching a computer science curriculum for a secondary school, and mainframe programming. 
+I am an IT professional that is retooling my skills for work in Site Reliability or Dev/Ops.   I successfully completed the Ohio State University College of Engineering Coding Boot Camp in April 2022 which helped me realize my desire to work with backend technologies related to IT operations.   My previous IT work experience includes network administration, developing and teaching a computer science curriculum for a secondary school, and mainframe programming. 
 
 -  Which now leads me to my next adventure: seeking and landing opportunities SRE, Application/Production Support or Dev/Ops!
 
