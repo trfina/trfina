@@ -4,5 +4,5 @@ Successfully completed the Ohio State University College of Engineering Coding B
 
 Previous IT work includes network administration, developing and teaching a computer science curriculum for a secondary school, and mainframe programming including COBOL. 
 
-- 📫 How to reach me ... finatammy@gmail.com or https://www.linkedin.com/in/tammy-fina-b53402212/
+- 📫 How to reach me ... finatammy@gmail.com
 
